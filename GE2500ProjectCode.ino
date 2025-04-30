@@ -1,3 +1,4 @@
+// GE2500 Tape Dispenser Code
 #include <Stepper.h>
 
 // Button and LED Pins
